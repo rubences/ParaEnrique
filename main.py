@@ -3,7 +3,7 @@
 
 
 """
-This Python method contains the application of the Game.
+This Python mdfghfghfethod contains the application of the Game.
 
 @contents :  This module contains the complete implementation of the application
              of the Game.
